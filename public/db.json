@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Barberton Daisy", "price": 119.00, "image": "https://i.ibb.co/b34XpW7/plant1.png", "category": "House Plants", "size": "Small" },
+  { "id": 2, "name": "Angel Wing Begonia", "price": 169.00, "image": "https://i.ibb.co/m07wVf1/plant2.png", "category": "House Plants", "size": "Medium" },
+  { "id": 3, "name": "African Violet", "price": 199.00, "oldPrice": 229.00, "image": "https://i.ibb.co/wSgYvW4/plant3.png", "category": "Potter Plants", "size": "Large" },
+  { "id": 4, "name": "Beach Spider Lily", "price": 129.00, "image": "https://i.ibb.co/b34XpW7/plant1.png", "category": "House Plants", "size": "Small" },
+  { "id": 5, "name": "Blushing Bromeliad", "price": 139.00, "image": "https://i.ibb.co/m07wVf1/plant2.png", "category": "Seeds", "size": "Medium" },
+  { "id": 6, "name": "Aluminum Plant", "price": 179.00, "image": "https://i.ibb.co/wSgYvW4/plant3.png", "category": "Small Plants", "size": "Large" },
+  { "id": 7, "name": "Bird's Nest Fern", "price": 99.00, "image": "https://i.ibb.co/b34XpW7/plant1.png", "category": "Succulents", "size": "Small" },
+  { "id": 8, "name": "Broadleaf Lady Palm", "price": 59.00, "image": "https://i.ibb.co/m07wVf1/plant2.png", "category": "Trerrariums", "size": "Medium" },
+  { "id": 9, "name": "Chinese Evergreen", "price": 39.00, "image": "https://i.ibb.co/wSgYvW4/plant3.png", "category": "Gardening", "size": "Large" }
+]
